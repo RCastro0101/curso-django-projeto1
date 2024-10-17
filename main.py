@@ -1,5 +1,0 @@
-def teste():
-    
-    
-    
-    nome = "eu" 
